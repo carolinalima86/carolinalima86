@@ -2,7 +2,13 @@
 
 ###
 
-<p align="left">Meu nome é Carolina Lima, sou formada em Ciências Econômicas pela UFPE e, atualmente, estou em transição de carreira para a área de Tecnologia, com foco em Engenharia de Dados.<br><br>Há pouco mais de um ano, mergulhei de cabeça nesse novo desafio e estou me dedicando ao estudo de ferramentas e tecnologias essenciais para área de dados. Atualmente , estou me preparando para obter a certificação AWS CERTIFIED CLOUD PRACTITIONER pela Escola da Nuvem, além de aprofundar meus conhecimentos em PYTHON e suas bibliotecas, como PANDAS, NUMPY e MATPLOTLIB, e explorando os fundamentos de Machine Learning.</p>
+<p align="left">Meu nome é Carolina Lima, sou formada em Ciências Econômicas pela UFPE e, atualmente, estou em transição de carreira para a área de Tecnologia, com foco em Engenharia de Dados.
+
+Há pouco mais de um ano, mergulhei de cabeça nesse novo desafio e venho me dedicando ao estudo de ferramentas e tecnologias essenciais para a área de dados.
+
+Atualmente, estou aprofundando meus conhecimentos em Python e suas principais bibliotecas — como pandas, numpy e matplotlib — e explorando os fundamentos de Machine Learning e Big Data.
+
+🎓 Em março de 2025, fui aprovada na certificação AWS Certified Cloud Practitioner, obtida através da formação promovida pela Escola da Nuvem, um marco importante na minha transição profissional para a área de Cloud e Dados.</p>
 
 ###
 
