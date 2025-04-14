@@ -1,47 +1,52 @@
-<h1 align="left">Olá 👋 Tudo bem?</h1>
+<h1 align="center">Olá, eu sou Carolina Lima! 👩‍💻</h1>
 
-###
+<p align="center">
+  🚀 Em transição de carreira para a área de <strong>Tecnologia da Informação</strong>  
+  <br>
+  ☁️ Apaixonada por <strong>Cloud Computing</strong>, <strong>Dados</strong> e <strong>Segurança da Informação</strong>  
+</p>
 
-<p align="left">Meu nome é Carolina Lima, sou formada em Ciências Econômicas pela UFPE e, atualmente, estou em transição de carreira para a área de Tecnologia, com foco em Engenharia de Dados.
+---
 
-Há pouco mais de um ano, mergulhei de cabeça nesse novo desafio e venho me dedicando ao estudo de ferramentas e tecnologias essenciais para a área de dados.
+### 👩‍🎓 Sobre mim
 
-Atualmente, estou aprofundando meus conhecimentos em Python e suas principais bibliotecas — como pandas, numpy e matplotlib — e explorando os fundamentos de Machine Learning e Big Data.
+- 💼 Mais de 10 anos de experiência no setor administrativo
+- 📚 Estudante de **Digital Security** na UNINASSAU
+- ☁️ Certificada **AWS Cloud Practitioner** – março/2025
+- 🎓 Formação em **Cloud Computing** pela **Escola da Nuvem (Restart)**
+- 💡 Atualmente participando do programa **EY Empodera**
+- 👀 Aprendendo e praticando: `Python`, `SQL`, `Git`, `GitHub`, `Data Analysis`, `Inteligência Artificial`, `Cybersecurity`
 
-🎓 Em março de 2025, fui aprovada na certificação AWS Certified Cloud Practitioner, obtida através da formação promovida pela Escola da Nuvem, um marco importante na minha transição profissional para a área de Cloud e Dados.</p>
+---
 
-###
+### 💻 Tecnologias e Ferramentas
 
-<h2 align="left">Sobre mim</h2>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-###
+---
 
-<p align="left">📚 Atualmente estou aprendendo: AWS Cloud, Engenharia de Dados e IA.<br><br>🎯 Objetivos: Me tornar uma especialista em Engenharia de Dados, contribuir para projetos desafiadores  e continuar evoluindo na área de Tecnologia.<br><br>🎲 Curiosidade: Sou movida pela curiosidade de entender como os dados podem transformar decisões e impulsionar negócios.</p>
+### 🎯 Objetivo profissional
 
-###
+📌 Em busca da **primeira oportunidade profissional** na área de TI como estagiária ou júnior em:
 
-<h2 align="left">Linguagens e Ferramentas</h2>
+- Cloud Computing ☁️  
+- Análise de Dados 📊  
+- Segurança da Informação 🔐  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
+### 🤝 Vamos nos conectar?
 
-###
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolina-clima1986)  
+📧 E-mail: [carolclima86@gmail.com](mailto:carolclima86@gmail.com)
 
-<p align="left">Olá, Mundo!!</p>
+---
 
-###
+⭐ Obrigada por visitar meu perfil!  
+Vamos construir juntos soluções que impactem positivamente o mundo com tecnologia 🚀
+
